@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --font-heading: "mona sans", "sans-serif";
+  --font-sans: "mona sans", "sans-serif";
+  --font-banner: "caveat", "sans-serif";
+  --color-theme: #040D12;
+  --color-secondary: #03C988;
+  --color-base: #B9B4C7;
+  
+}
